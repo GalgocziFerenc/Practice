@@ -21,6 +21,6 @@ public class HelloWorld {
 	}
 
 	static void sayBye() {
-		System.out.println("bye-bye");
+		System.out.println("bye");
 	}
 }
